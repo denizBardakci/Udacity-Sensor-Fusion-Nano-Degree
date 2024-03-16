@@ -1,0 +1,81 @@
+===>>>../images/KITTI/2011_09_26/image_00/data/0000000001.png
+Extracted 95 matched keypoints
+Duration of matching process is: 0.3066 ms
+===>>>../images/KITTI/2011_09_26/image_00/data/0000000002.png
+Extracted 88 matched keypoints
+Duration of matching process is: 0.24876 ms
+===>>>../images/KITTI/2011_09_26/image_00/data/0000000003.png
+Extracted 80 matched keypoints
+Duration of matching process is: 0.24395 ms
+===>>>../images/KITTI/2011_09_26/image_00/data/0000000004.png
+Extracted 90 matched keypoints
+Duration of matching process is: 0.234621 ms
+===>>>../images/KITTI/2011_09_26/image_00/data/0000000005.png
+Extracted 82 matched keypoints
+Duration of matching process is: 0.25636 ms
+===>>>../images/KITTI/2011_09_26/image_00/data/0000000006.png
+Extracted 79 matched keypoints
+Duration of matching process is: 0.25298 ms
+===>>>../images/KITTI/2011_09_26/image_00/data/0000000007.png
+Extracted 85 matched keypoints
+Duration of matching process is: 0.24545 ms
+===>>>../images/KITTI/2011_09_26/image_00/data/0000000008.png
+Extracted 86 matched keypoints
+Duration of matching process is: 0.29668 ms
+===>>>../images/KITTI/2011_09_26/image_00/data/0000000009.png
+Extracted 82 matched keypoints
+Duration of matching process is: 0.24463 ms
+===>>>../images/KITTI/2011_09_26/image_00/data/0000000001.png
+Extracted 95 matched keypoints
+Duration of matching process is: 0.42242 ms
+===>>>../images/KITTI/2011_09_26/image_00/data/0000000002.png
+Extracted 88 matched keypoints
+Duration of matching process is: 0.25902 ms
+===>>>../images/KITTI/2011_09_26/image_00/data/0000000003.png
+Extracted 80 matched keypoints
+Duration of matching process is: 0.26118 ms
+===>>>../images/KITTI/2011_09_26/image_00/data/0000000004.png
+Extracted 90 matched keypoints
+Duration of matching process is: 0.44978 ms
+===>>>../images/KITTI/2011_09_26/image_00/data/0000000005.png
+Extracted 82 matched keypoints
+Duration of matching process is: 0.41411 ms
+===>>>../images/KITTI/2011_09_26/image_00/data/0000000006.png
+Extracted 79 matched keypoints
+Duration of matching process is: 0.243801 ms
+===>>>../images/KITTI/2011_09_26/image_00/data/0000000007.png
+Extracted 85 matched keypoints
+Duration of matching process is: 0.24113 ms
+===>>>../images/KITTI/2011_09_26/image_00/data/0000000008.png
+Extracted 86 matched keypoints
+Duration of matching process is: 0.28108 ms
+===>>>../images/KITTI/2011_09_26/image_00/data/0000000009.png
+Extracted 82 matched keypoints
+Duration of matching process is: 0.24862 ms
+===>>>../images/KITTI/2011_09_26/image_00/data/0000000001.png
+Extracted 95 matched keypoints
+Duration of matching process is: 0.414671 ms
+===>>>../images/KITTI/2011_09_26/image_00/data/0000000002.png
+Extracted 88 matched keypoints
+Duration of matching process is: 0.60485 ms
+===>>>../images/KITTI/2011_09_26/image_00/data/0000000003.png
+Extracted 80 matched keypoints
+Duration of matching process is: 0.27046 ms
+===>>>../images/KITTI/2011_09_26/image_00/data/0000000004.png
+Extracted 90 matched keypoints
+Duration of matching process is: 0.32516 ms
+===>>>../images/KITTI/2011_09_26/image_00/data/0000000005.png
+Extracted 82 matched keypoints
+Duration of matching process is: 0.522621 ms
+===>>>../images/KITTI/2011_09_26/image_00/data/0000000006.png
+Extracted 79 matched keypoints
+Duration of matching process is: 0.24142 ms
+===>>>../images/KITTI/2011_09_26/image_00/data/0000000007.png
+Extracted 85 matched keypoints
+Duration of matching process is: 0.24287 ms
+===>>>../images/KITTI/2011_09_26/image_00/data/0000000008.png
+Extracted 86 matched keypoints
+Duration of matching process is: 0.23411 ms
+===>>>../images/KITTI/2011_09_26/image_00/data/0000000009.png
+Extracted 82 matched keypoints
+Duration of matching process is: 0.75131 ms
